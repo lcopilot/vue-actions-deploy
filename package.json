@@ -1,6 +1,7 @@
 {
   "name": "vue-actions-deploy",
   "version": "0.1.0",
+  "homepage":"https://limuge.github.io/vue-actions-deploy",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
